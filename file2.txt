@@ -1,1 +1,2 @@
-A feature for login is added.
+A feature for login is added.\
+A modification in local master branch.
